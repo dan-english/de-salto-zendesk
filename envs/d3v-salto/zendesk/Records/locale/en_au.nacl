@@ -1,0 +1,10 @@
+zendesk.locale en_au@b {
+  locale = "en-au"
+  name = "English (AU)"
+  native_name = "English (Australia)"
+  presentation_name = "English (Australia)"
+  rtl = false
+  
+  _alias = "English (Australia)"
+  id = 1277
+}
