@@ -9,9 +9,14 @@ zendesk.ticket_form dge_test_form {
     zendesk.ticket_field.instance.Ticket_status_custom_status@suu,
     zendesk.ticket_field.instance.Subject_subject,
     zendesk.ticket_field.instance.Description_description,
+    zendesk.ticket_field.instance.custom_number_integer@su,
     zendesk.ticket_field.instance.Test_chkbox_checkbox@su,
     zendesk.ticket_field.instance.Severity_integer,
+    zendesk.ticket_field.instance.Priority_priority,
     zendesk.ticket_field.instance.Company_Size_decimal@su,
+    zendesk.ticket_field.instance.Customer_Priority_tagger@su,
+    zendesk.ticket_field.instance.CE_Notes_text@su,
+    zendesk.ticket_field.instance.dge_dynamic_text_text,
     zendesk.ticket_field.instance.Customer_Tier_multiselect@su,
   ]
   active = true
